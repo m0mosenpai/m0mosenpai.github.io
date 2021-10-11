@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog</title>
-    <link>https://m0mosenpai.com/</link>
-    <description>Recent content on Blog</description>
+    <title>Python on Blog</title>
+    <link>https://m0mosenpai.com/tags/python/</link>
+    <description>Recent content in Python on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python packages, modules and import statements</title>
       <link>https://m0mosenpai.com/posts/2_python_imports/python_imports/</link>
@@ -14,17 +14,6 @@
       <guid>https://m0mosenpai.com/posts/2_python_imports/python_imports/</guid>
       <description>&amp;#34;ModuleNotFoundError: No module named &amp;#39;Monjiro&amp;#39; &amp;#34;</description>
     </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://m0mosenpai.com/posts/1_introduction/intro/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://m0mosenpai.com/posts/1_introduction/intro/</guid>
-      <description>New blog? What can I expect?</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
