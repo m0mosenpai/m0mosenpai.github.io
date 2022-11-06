@@ -2,52 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Sarthak&#39;s Blog</title>
-    <link>https://m0mosenpai.com/tags/</link>
+    <link>https://m0mosenpai.github.io/tags/</link>
     <description>Recent content in Tags on Sarthak&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life</title>
+      <link>https://m0mosenpai.github.io/tags/life/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://m0mosenpai.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>exploits</title>
-      <link>https://m0mosenpai.com/tags/exploits/</link>
+      <link>https://m0mosenpai.github.io/tags/exploits/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/tags/exploits/</guid>
+      <guid>https://m0mosenpai.github.io/tags/exploits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://m0mosenpai.com/tags/php/</link>
+      <link>https://m0mosenpai.github.io/tags/php/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/tags/php/</guid>
+      <guid>https://m0mosenpai.github.io/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>https://m0mosenpai.com/tags/security/</link>
+      <link>https://m0mosenpai.github.io/tags/security/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/tags/security/</guid>
+      <guid>https://m0mosenpai.github.io/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://m0mosenpai.com/tags/python/</link>
+      <link>https://m0mosenpai.github.io/tags/python/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/tags/python/</guid>
+      <guid>https://m0mosenpai.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firstpost</title>
-      <link>https://m0mosenpai.com/tags/firstpost/</link>
+      <link>https://m0mosenpai.github.io/tags/firstpost/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/tags/firstpost/</guid>
+      <guid>https://m0mosenpai.github.io/tags/firstpost/</guid>
       <description></description>
     </item>
     

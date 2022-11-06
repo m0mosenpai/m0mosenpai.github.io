@@ -2,34 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sarthak&#39;s Blog</title>
-    <link>https://m0mosenpai.com/</link>
+    <link>https://m0mosenpai.github.io/</link>
     <description>Recent content on Sarthak&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$whereami</title>
+      <link>https://m0mosenpai.github.io/posts/5_whereami/2022-10-31-whereami/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://m0mosenpai.github.io/posts/5_whereami/2022-10-31-whereami/</guid>
+      <description>My blogless year and also Happy Halloween</description>
+    </item>
+    
     <item>
       <title>Zerodium: PHP Git Software Supply Chain Attack</title>
-      <link>https://m0mosenpai.com/posts/4_zerodium/zerodium/</link>
+      <link>https://m0mosenpai.github.io/posts/4_zerodium/2021-10-18-zerodium/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/posts/4_zerodium/zerodium/</guid>
+      <guid>https://m0mosenpai.github.io/posts/4_zerodium/2021-10-18-zerodium/</guid>
       <description>How PHP&amp;#39;s compromised git server led to backdoors in PHP source code</description>
     </item>
     
     <item>
       <title>Python packages, modules and import statements</title>
-      <link>https://m0mosenpai.com/posts/2_python_imports/python_imports/</link>
+      <link>https://m0mosenpai.github.io/posts/2_python_imports/2021-10-11-python_imports/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/posts/2_python_imports/python_imports/</guid>
+      <guid>https://m0mosenpai.github.io/posts/2_python_imports/2021-10-11-python_imports/</guid>
       <description>&amp;#34;ModuleNotFoundError: No module named &amp;#39;Monjiro&amp;#39; &amp;#34;</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://m0mosenpai.com/posts/1_introduction/intro/</link>
+      <link>https://m0mosenpai.github.io/posts/1_introduction/2021-10-10_intro/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/posts/1_introduction/intro/</guid>
+      <guid>https://m0mosenpai.github.io/posts/1_introduction/2021-10-10_intro/</guid>
       <description>New blog? What can I expect?</description>
     </item>
     

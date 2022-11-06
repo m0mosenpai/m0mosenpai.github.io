@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>firstpost on Sarthak&#39;s Blog</title>
-    <link>https://m0mosenpai.com/tags/firstpost/</link>
+    <link>https://m0mosenpai.github.io/tags/firstpost/</link>
     <description>Recent content in firstpost on Sarthak&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.com/tags/firstpost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m0mosenpai.github.io/tags/firstpost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://m0mosenpai.com/posts/1_introduction/intro/</link>
+      <link>https://m0mosenpai.github.io/posts/1_introduction/2021-10-10_intro/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://m0mosenpai.com/posts/1_introduction/intro/</guid>
+      <guid>https://m0mosenpai.github.io/posts/1_introduction/2021-10-10_intro/</guid>
       <description>New blog? What can I expect?</description>
     </item>
     
